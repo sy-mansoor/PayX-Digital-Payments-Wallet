@@ -1,0 +1,14 @@
+{
+  "name": "payx-digital-payments-wallet",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "concurrently \"npm run start --prefix backend\" \"npm run dev --prefix frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "react-chartjs-2": "^5.3.0"
+  }
+}
