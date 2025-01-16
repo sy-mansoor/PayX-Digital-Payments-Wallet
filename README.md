@@ -41,7 +41,7 @@ To install and run the PayX Wallet Application locally, follow these steps:
 
 
 ```
-git clone <repositoru url>
+git clone https://github.com/sy-mansoor/PayX-Digital-Payments-Wallet.git
 ```
 
 ### Step 2: Install dependencies
