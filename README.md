@@ -6,7 +6,7 @@ The PayX is a Full-Stack Online wallet application created with the [MERN stack]
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/jLFvvRJ)
+![alt text](https://github.com/sy-mansoor/PayX-Digital-Payments-Wallet/blob/main/frontend/public/preview.png?raw=true)
 
 
 ## Features
