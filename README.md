@@ -72,7 +72,15 @@ MONGO_URI = "<your-mongo-atlas-url>"
 
 JWT_SECRET = <jwt-secret>
 ```
+## Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## Acknowledgements
+
+Inspired by modern digital payment solutions
+Built as part of learning MERN stack development
 
 
 
