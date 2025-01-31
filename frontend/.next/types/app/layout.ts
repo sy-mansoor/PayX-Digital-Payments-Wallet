@@ -1,4 +1,4 @@
-// File: C:\Users\syed-\code\EY-GDS Internship Project Files\Internships files\root\frontend\src\app\layout.js
+// File: C:\Users\syed-\Code\EY GDS Project Files\PayX-Digital-Payments-Wallet\frontend\src\app\layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
